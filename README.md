@@ -61,12 +61,3 @@ Power BI (Visualization Layer)
 
 5. **Power BI Layer**
    - Visualizes data for business insights
-
----
-
-## 🚀 Setup Instructions
-
-### 1️⃣ Clone Repository
-```bash
-git clone https://github.com/YOUR_USERNAME/real-time-stock-pipeline.git
-cd real-time-stock-pipeline
