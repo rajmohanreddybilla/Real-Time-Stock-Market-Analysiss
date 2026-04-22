@@ -1,0 +1,12 @@
+2026-04-22 10:39:08,888 - INFO - stocksTSLA loaded successfully
+2026-04-22 10:39:09,949 - INFO - stocksMSFT loaded successfully
+2026-04-22 10:39:10,969 - INFO - stocksGOOGL loaded successfully
+2026-04-22 10:39:46,516 - INFO - stocksTSLA loaded successfully
+2026-04-22 10:39:47,478 - INFO - stocksMSFT loaded successfully
+2026-04-22 10:39:48,412 - ERROR - Error on stock: 429 Client Error: Too Many Requests for url: https://alpha-vantage.p.rapidapi.com/query?function=TIME_SERIES_INTRADAY&symbol=GOOGL&outputsize=compact&interval=5min&datatype=json
+2026-04-22 10:41:42,885 - INFO - stocksTSLA loaded successfully
+2026-04-22 10:41:44,116 - INFO - stocksMSFT loaded successfully
+2026-04-22 10:41:45,252 - INFO - stocksGOOGL loaded successfully
+2026-04-22 10:44:25,089 - INFO - stocksTSLA loaded successfully
+2026-04-22 10:44:26,514 - INFO - stocksMSFT loaded successfully
+2026-04-22 10:44:27,642 - INFO - stocksGOOGL loaded successfully
